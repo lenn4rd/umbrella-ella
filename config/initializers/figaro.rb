@@ -1,0 +1,1 @@
+Figaro.require_keys('openweather_api_key')
