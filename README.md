@@ -50,4 +50,4 @@ I created one simple model using ActiveModel. To fetch data from the API I'm usi
 
 ## Trivia
 
-What's with the name? Well, there's a song that goes by the name [Umbrella](http://www.vevo.com/watch/rihanna/umbrella-(orange-version)/USUV70702871). I'm not a huge fan but the that line was the first thing that came to my mind thinking of a Weather API. Weird, isn't it?
+What's with the name? Well, there's a song that goes by the name [Umbrella](http://www.vevo.com/watch/rihanna/umbrella-(orange-version)/USUV70702871). I'm not a huge fan but that line was the first thing that came to my mind thinking of a Weather API. Weird, isn't it?
