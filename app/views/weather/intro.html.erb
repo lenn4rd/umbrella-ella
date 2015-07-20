@@ -1,0 +1,7 @@
+<h1>Umbrella-ella</h1>
+
+<p>Hi there! This is a gateway to the <%= link_to 'OpenWeatherMap API', 'http://openweathermap.org/api' %>.</p>
+  
+<p>Try this: Open <code>/weather.json</code> and submit <code>lat</code> and <code>lon</code> as query parameters.</p>
+
+<p>Here's an <%= link_to 'URL with random parameters', weather_url(lat: @random[:lat], lon: @random[:lon], format: :json) %>.</p>
