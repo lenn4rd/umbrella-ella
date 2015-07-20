@@ -21,8 +21,8 @@ class WeatherPoint
   # params introduced in Ruby 2.1 to resemble ActiveRecord's <tt>find_by</tt>
   # methods that use hashes for the parameters.
   def self.find_by(lat:, lon:)
-    latitude  = (lat * GPS_PRECISION).round
-    longitude = (lon * GPS_PRECISION).round
+    latitude  = (lat.to_f * GPS_PRECISION).round
+    longitude = (lon.to_f * GPS_PRECISION).round
     key       = "#{latitude}#{longitude}"
     find(key)
   end
