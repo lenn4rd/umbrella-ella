@@ -1,0 +1,18 @@
+{
+  "name": "Umbrella-ella",
+  "description": "A small app to connect to the OpenWeatherMap API",
+  "keywords": [
+    "openweathermap",
+    "api",
+    "sample"
+  ],
+  "repository": "https://github.com/lenn4rd/umbrellaella",
+  "env": {
+    "openweather_api_key": {
+      "description": "Your API key to access OpenWeatherMap data. Learn more: http://openweathermap.org/appid"
+    }
+  },
+  "addons": [
+    "heroku-redis:hobby-dev"
+  ]
+}
