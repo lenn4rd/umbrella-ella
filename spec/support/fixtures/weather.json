@@ -1,0 +1,42 @@
+{
+    "base": "stations",
+    "clouds": {
+        "all": 75
+    },
+    "cod": 200,
+    "coord": {
+        "lat": 10.1,
+        "lon": 99.84
+    },
+    "dt": 1437354000,
+    "id": 6698659,
+    "main": {
+        "humidity": 94,
+        "pressure": 1009,
+        "temp": 298.15,
+        "temp_max": 298.15,
+        "temp_min": 298.15
+    },
+    "name": "Koh Tao",
+    "sys": {
+        "country": "TH",
+        "id": 7955,
+        "message": 0.0067,
+        "sunrise": 1437347271,
+        "sunset": 1437392761,
+        "type": 1
+    },
+    "visibility": 9000,
+    "weather": [
+        {
+            "description": "light rain",
+            "icon": "10d",
+            "id": 500,
+            "main": "Rain"
+        }
+    ],
+    "wind": {
+        "deg": 213.001,
+        "speed": 6.17
+    }
+}
