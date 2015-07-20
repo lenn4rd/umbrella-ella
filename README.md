@@ -2,6 +2,10 @@
 
 This is a small Rails app that provides a JSON API and passes requests to the [OpenWeather Map API](http://openweathermap.org/api) — sort of a gateway. It's a demo app and it might not be the most useful one in the world, but that's okay!
 
+[See it in action](https://umbrella-ella.herokuapp.com) or push this purple button:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 ## Getting Started
 
 First of all, make sure that Redis is installed and running on your machine. On OS X, use [Homebrew](http://brew.sh) to manage packages like Redis. Refer to its documentation for help with installing it.

@@ -6,7 +6,7 @@
     "api",
     "sample"
   ],
-  "repository": "https://github.com/lenn4rd/umbrellaella",
+  "repository": "https://github.com/lenn4rd/umbrella-ella",
   "env": {
     "openweather_api_key": {
       "description": "Your API key to access OpenWeatherMap data. Learn more: http://openweathermap.org/appid"
