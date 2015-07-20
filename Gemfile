@@ -37,6 +37,7 @@ end
 
 group :test do
   gem 'capybara'
+  gem 'fakeredis'
   gem 'shoulda-matchers', require: false
   gem 'sinatra', require: false
   gem 'webmock'
