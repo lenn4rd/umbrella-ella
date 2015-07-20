@@ -36,7 +36,9 @@ group :development, :test do
 end
 
 group :test do
+  gem 'capybara'
   gem 'shoulda-matchers', require: false
+  gem 'webmock'
 end
 
 group :production do
